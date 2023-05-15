@@ -1,7 +1,7 @@
 
 # Sorting algorithms
 
-This is a short univeristy project, its goal is to sort a set of random numbers using Insert Sort, Bubble Sort, Merge Sort, or Quick Sort. The user can generate a random set of numbers by choosing the number of how many intigers should be randomly generated. The options include: 
+This is a short univeristy project, its goal is to sort a set of random numbers using Insertion Sort, Bubble Sort, Merge Sort, or Quick Sort. The user can generate a random set of numbers by choosing the number of how many intigers should be randomly generated. The options include: 
 1. Size: 10, 100, 1000, 10000, or 100000
 2. Order: ascending, descending, or random
 Then, the user can choose, which sorting algorithm should be used. Also, the time of running an algorithm will be saved. The sorted array will be saved in the text file given by the user.
